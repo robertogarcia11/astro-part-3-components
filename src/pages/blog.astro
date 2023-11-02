@@ -1,8 +1,6 @@
 ---
-import Header from '../components/Header.astro';
-const topicTitle = 'Travel Blog';
+import Navigation from '../components/Navigation.astro';
 ---
-
 
 
 <html lang="en">
@@ -11,19 +9,19 @@ const topicTitle = 'Travel Blog';
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>{topicTitle}</title>
+		<title>Blog</title>
 
 		<style>
 			
 			body {
-				background: coral;
+				background: rgb(206, 118, 118);
 			}
 			
 		</style>
 	</head>
 	<body>
-		<Header />
+		<Navigation />
 		
-		<h1>{topicTitle}</h1>
+		<h1>Blog</h1>
 	</body>
 </html>
