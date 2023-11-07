@@ -1,6 +1,7 @@
 ---
 
 ---
+<div style="background: #EEDC82">
 
 # Guanajuato City, MX
 ## Travel Guide to Guanajuato City, MX

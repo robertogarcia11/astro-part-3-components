@@ -1,8 +1,9 @@
 ---
 
 ---
+<div style="background: turquoise">
 
-# The Pacific Northwest West
+# The Pacific Northwest
 ## Travel Guide to the Pacific Northwest
 
 <img src="https://www.fototripper.com/wp-content/uploads/2013/03/under-pink-light-cape-flattery-washington-gavin-hardcastle-1024x684.jpg" alt="PNW" width="700" height="400">

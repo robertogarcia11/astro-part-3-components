@@ -1,6 +1,7 @@
 ---
 
 ---
+<div style="background: #73a767">
 
 # Mexico City, MX
 ## Travel Guide to Mexico City, MX
